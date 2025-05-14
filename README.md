@@ -26,7 +26,7 @@
 ## 🧪 Demo
 
 Try the live app here:  
-👉 
+👉 https://eco-step-impact.vercel.app/
 
 ---
 
